@@ -1,4 +1,4 @@
-# Projeto Jogo da Memória (Font) com HTML5 e CSS (Grid - Flex - Transformações 3d) sem responsividade.
+# Projeto Jogo da Memória (Font) com HTML5 e CSS (Grid - Flex - Transformações 3D) sem responsividade.
 
 **Desenvolvido por** *Arthur Felipe MS*
 
